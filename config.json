@@ -1,0 +1,10 @@
+{
+ "params":
+  {
+   "local_server":"True",
+   "local_uri":"mysql://root:@localhost/travellingsoul",
+   "prod_uri":"mysql://root:@localhost/travellingsoul",
+   "gmail_user":"malliksnahangshu@gmail.com",
+   "gmail_password":"fyww lhut ftgm moio"
+  }
+}
